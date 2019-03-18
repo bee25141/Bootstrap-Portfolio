@@ -40,11 +40,58 @@ h3{
     margin-top: .5em;
 }
 
+h4{
+    /* position: absolute; */
+    bottom: 1em;
+    color: #ffffff;
+    /* border: none;
+    /* font-size: 5em; */
+    /* background-color: rgba(21, 175, 149, 0.75); */
+    text-align: center;
+    /* width: 100%;
+    padding: 1em, 0; */
+    font-size: 1em;
+    /* margin: 0; */
+}
+
 #me{
     height: 14em;
     width: 14em;
 }
 
+#hangman{
+    height: 10em;
+    width: 10em;
+    background-image: url("../images/ipad.jpg");
+    background-size: cover;
+}
+
+#rpg{
+    height: 10em;
+    width: 10em;
+    background-image: url(../images/rpg.jpg);
+    background-size: cover;
+}
+
+#trivia{
+    height: 10em;
+    width: 10em;
+    background-image: url(../images/trivia.jpg);
+    background-size: cover;
+}
+
+#rutgers{
+    height: 10em;
+    width: 10em;
+    background-image: url(../images/rutgers.jpeg);
+    background-size: cover;
+}
+#rockpaperscissors{
+    height: 10em;
+    width: 10em;  
+    background-image: url(../images/rockpaperscissors.jpg);
+    background-size: cover;
+}
 .lowerbreakline {
     background-color: #4aaaa5;
     padding: 0px;
