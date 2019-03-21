@@ -1,6 +1,10 @@
 body{
     background-image: url("/assets/images/whitewaves.png"); 
 }
+
+.container-fluid{
+    background-color: #666666;
+}
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2em;
